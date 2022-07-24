@@ -5,7 +5,7 @@ new github pages for learning
 CSS Style Sheet Framework  : Bootstrap5 : https://getbootstrap.com/
 
 Pages:
-0. index.html ( home page )
+0. index.html ( home page  draft got created with 6 sections )
 
 
 1. seasonal_collections.html [ weekly refreshed page with latest and popular collections to attract visitors ]
