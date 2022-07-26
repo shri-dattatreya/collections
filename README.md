@@ -1,4 +1,4 @@
-# sri dattatreya collections
+# Shri Dattatreya Collections
 
 new github pages for learning
 
